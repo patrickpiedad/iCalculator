@@ -1,0 +1,10 @@
+C:\Users\pieda\OneDrive\MSSA CCAD15\Assignment Turn In\Assignment 4_1_2\ICalculator\ICalculator\bin\Debug\ICalculator.exe.config
+C:\Users\pieda\OneDrive\MSSA CCAD15\Assignment Turn In\Assignment 4_1_2\ICalculator\ICalculator\bin\Debug\ICalculator.exe
+C:\Users\pieda\OneDrive\MSSA CCAD15\Assignment Turn In\Assignment 4_1_2\ICalculator\ICalculator\bin\Debug\ICalculator.pdb
+C:\Users\pieda\OneDrive\MSSA CCAD15\Assignment Turn In\Assignment 4_1_2\ICalculator\ICalculator\obj\Debug\ICalculator.csproj.AssemblyReference.cache
+C:\Users\pieda\OneDrive\MSSA CCAD15\Assignment Turn In\Assignment 4_1_2\ICalculator\ICalculator\obj\Debug\ICalculator.Form1.resources
+C:\Users\pieda\OneDrive\MSSA CCAD15\Assignment Turn In\Assignment 4_1_2\ICalculator\ICalculator\obj\Debug\ICalculator.Properties.Resources.resources
+C:\Users\pieda\OneDrive\MSSA CCAD15\Assignment Turn In\Assignment 4_1_2\ICalculator\ICalculator\obj\Debug\ICalculator.csproj.GenerateResource.cache
+C:\Users\pieda\OneDrive\MSSA CCAD15\Assignment Turn In\Assignment 4_1_2\ICalculator\ICalculator\obj\Debug\ICalculator.csproj.CoreCompileInputs.cache
+C:\Users\pieda\OneDrive\MSSA CCAD15\Assignment Turn In\Assignment 4_1_2\ICalculator\ICalculator\obj\Debug\ICalculator.exe
+C:\Users\pieda\OneDrive\MSSA CCAD15\Assignment Turn In\Assignment 4_1_2\ICalculator\ICalculator\obj\Debug\ICalculator.pdb
